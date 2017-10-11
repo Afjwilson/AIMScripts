@@ -4,9 +4,6 @@
 # Registration of new instance to CyberArk Vault using different AIM credentials
 # plagiarised, prettified and generally made to work by angus.herron@cyberark.com
 ##########################################################
-# Note: Any changes to the script done after the script has 
-# been signed to the Vault will cause this script to fail!
-##########################################################
 
 # Define the FQDN for the Management REST APIs
 $FQDN = 'http://component'
